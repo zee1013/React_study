@@ -1,0 +1,12 @@
+.heading{
+  padding: 20px;
+  text-align: center;
+  /* margin-bottom: 20px; */
+  color: rgb(219, 110, 110);
+  background-color: rgb(253, 216, 211);
+}
+.mainTitle{
+  text-align: center;
+  color: royalblue;
+  background-color: palegreen;
+}
